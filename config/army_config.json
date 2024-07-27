@@ -5135,7 +5135,6 @@
     "PVP_TUTORIAL_RULES": { "ID":"PVP_TUTORIAL_RULES", "en":"The rules of the battlen\\n\\You play in turns and you have 3 actions per each turn. Possible actions are move, shoot or use a booster. Who kills all enemy units wins." },
     "PVP_TUTORIAL_POWERUPS_BOOSTERS": { "ID":"PVP_TUTORIAL_POWERUPS_BOOSTERS", "en":"Power-ups and Boostersn\\n\\You can improve your tactics by picking up power-ups found sometimes from the battle field.n\\n\\The other option is to use boosters which you can buy in advance from the shop." },
     "PLAY_BUTTON_TEXT": { "ID":"PLAY_BUTTON_TEXT", "en":"PLAY", "de":"Spielen", "fr":"Jouer", "it":"Gioca", "es":"Jugar" },
-    "LOAD_BUTTON_TEXT": { "ID":"LOAD_BUTTON_TEXT", "en":"LOAD PROGRESS", "de":"Spielen", "fr":"Jouer", "it":"Gioca", "es":"Jugar" },
     "RESUME_BUTTON_TEXT": { "ID":"RESUME_BUTTON_TEXT", "en":"RESUME", "de":"Fortsetzen", "fr":"Reprendre", "it":"Continua", "es":"Reanudar" },
     "SETTINGS_BUTTON_TEXT": { "ID":"SETTINGS_BUTTON_TEXT", "en":"SETTINGS", "de":"Einstellungen", "fr":"Paramètres", "it":"Impostazioni", "es":"Configuración" },
     "HELP_BUTTON_TEXT": { "ID":"HELP_BUTTON_TEXT", "en":"HOW TO PLAY", "de":"Wie man spielt", "fr":"Comment jouer", "it":"Come si gioca", "es":"Cómo jugar" },
