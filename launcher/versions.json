@@ -70,7 +70,7 @@
     {
       "id": "truecrimson",
       "latestVersion": "truecrimson",
-      "versionTag": "2",
+      "versionTag": "2.0",
       "name": "True Crimson",
       "description": "Play as the Crimson Empire! - by Christiaan1",
       "url": "https://michielvde1253.github.io/launcher/release/truecrimson/truecrimson.zip",
@@ -81,9 +81,9 @@
     {
       "id": "crimsonisland",
       "latestVersion": "crimsonisland",
-      "versionTag": "1",
+      "versionTag": "1.0",
       "name": "The Crimson Island",
-      "description": "Play as the Crimson Empire to conquer the Homeland and Libery! - by Christiaan1",
+      "description": "Play on the Crimson Island - by Christiaan1",
       "url": "https://michielvde1253.github.io/launcher/release/crimsonisland/AAcrimsonisland.exe",
       "image": "https://michielvde1253.github.io/launcher/icons/crimsonisland.png",
       "type": "legacy",
@@ -92,10 +92,10 @@
     {
       "id": "hardmode",
       "latestVersion": "hardmode",
-      "versionTag": "1",
+      "versionTag": "1.0",
       "name": "hard Mode",
       "description": "If the base game was too easy for you... - by Christiaan1",
-      "url": "https://michielvde1253.github.io/launcher/release/hardmode/Army Attack Hard Mode.zip",
+      "url": "https://michielvde1253.github.io/launcher/release/hardmode/ArmyAttackHardMode.zip",
       "image": "https://michielvde1253.github.io/launcher/icons/hardmode.png",
       "type": "zip",
       "is_mod": true
