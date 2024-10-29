@@ -74,7 +74,7 @@
       "name": "True Crimson",
       "description": "Play as the Crimson Empire! - by Christiaan1",
       "url": "https://michielvde1253.github.io/launcher/release/truecrimson/truecrimson.zip",
-      "image": "https://michielvde1253.github.io/launcher/icons/truecrimson.png",
+      "image": "https://michielvde1253.github.io/launcher/icons/crimsonisland.png",
       "type": "zip",
       "is_mod": true
     },
@@ -93,7 +93,7 @@
       "id": "hardmode",
       "latestVersion": "hardmode",
       "versionTag": "1.0",
-      "name": "hard Mode",
+      "name": "Hard Mode",
       "description": "If the base game was too easy for you... - by Christiaan1",
       "url": "https://michielvde1253.github.io/launcher/release/hardmode/ArmyAttackHardMode.zip",
       "image": "https://michielvde1253.github.io/launcher/icons/hardmode.png",
