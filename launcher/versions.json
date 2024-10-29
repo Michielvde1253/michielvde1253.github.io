@@ -83,10 +83,21 @@
       "latestVersion": "crimsonisland",
       "versionTag": "1",
       "name": "The Crimson Island",
-      "description": "@Christiaan please write a description xD - by Christiaan1",
+      "description": "Play as the Crimson Empire to conquer the Homeland and Libery! - by Christiaan1",
       "url": "https://michielvde1253.github.io/launcher/release/crimsonisland/AAcrimsonisland.exe",
       "image": "https://michielvde1253.github.io/launcher/icons/crimsonisland.png",
       "type": "legacy",
+      "is_mod": true
+    },
+    {
+      "id": "hardmode",
+      "latestVersion": "hardmode",
+      "versionTag": "1",
+      "name": "hard Mode",
+      "description": "If the base game was too easy for you... - by Christiaan1",
+      "url": "https://michielvde1253.github.io/launcher/release/hardmode/Army Attack Hard Mode.zip",
+      "image": "https://michielvde1253.github.io/launcher/icons/hardmode.png",
+      "type": "zip",
       "is_mod": true
     }
   ]
