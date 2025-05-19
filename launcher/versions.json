@@ -3,11 +3,11 @@
   "game": [
     {
       "id": "22",
-      "latestVersion": "22",
+      "latestVersion": "22.1",
       "versionTag": "22",
-      "name": "Homeland extension",
-      "description": "War never ends",
-      "url": "https://michielvde1253.github.io/launcher/release/22/AA22_test_windows.zip",
+      "name": "Homeland Extension",
+      "description": "War never ends.",
+      "url": "https://michielvde1253.github.io/launcher/release/22/AA22_release_windows.zip",
       "image": "https://michielvde1253.github.io/launcher/icons/22.png",
       "type": "zip",
       "is_mod": false
