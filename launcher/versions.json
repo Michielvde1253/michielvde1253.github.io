@@ -2,6 +2,17 @@
   "snow": false,
   "game": [
     {
+      "id": "desertpolar",
+      "latestVersion": "desertpolar",
+      "versionTag": "1",
+      "name": "Desert on Polar Bear Map",
+      "description": "Polar, but desertified (or Desert but polarified) - by Xyoufail",
+      "url": "https://michielvde1253.github.io/launcher/release/desertpolar/desertpolar_release.zip",
+      "image": "https://michielvde1253.github.io/launcher/icons/desertpolar.png",
+      "type": "zip",
+      "is_mod": true
+    },
+    {
       "id": "22",
       "latestVersion": "22.4",
       "versionTag": "22.1",
