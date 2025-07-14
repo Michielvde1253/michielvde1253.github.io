@@ -3,8 +3,8 @@
   "game": [
     {
       "id": "campaignmod",
-      "latestVersion": "campaignmod.1",
-      "versionTag": "2.0",
+      "latestVersion": "campaignmod.2",
+      "versionTag": "3.0",
       "name": "Campaign Mode",
       "description": "Play new missions in various locations around Homeland Island! - by Thokrumgrozo",
       "url": "https://michielvde1253.github.io/launcher/release/campaignmod/campaignmod_release.zip",
