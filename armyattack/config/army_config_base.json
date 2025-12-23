@@ -11545,7 +11545,7 @@
       "RewardMaterial": "0",
       "RewardEnergy": "0",
       "Time": "0",
-      "AvailableInMaps": "Home, Desert"
+      "AvailableInMaps": "Home"
     }
   },
   "HospitalBuilding": {
@@ -11903,10 +11903,10 @@
       "RewardSupplies": "0",
       "RewardEnergy": "1600",
       "PlantRewardXP": "0",
-      "CostMoney": "75",
+      "CostMoney": "7500",
       "CostSupplies": "0",
       "CostPremium": "0",
-      "Time": "1",
+      "Time": "5760",
       "SpoilTime": "0",
       "HireCostPremium": "5"
     },
@@ -11922,10 +11922,10 @@
       "RewardSupplies": "0",
       "RewardEnergy": "3100",
       "PlantRewardXP": "0",
-      "CostMoney": "75",
+      "CostMoney": "15000",
       "CostSupplies": "0",
       "CostPremium": "0",
-      "Time": "1",
+      "Time": "10080",
       "SpoilTime": "0",
       "HireCostPremium": "5"
     },
@@ -11939,12 +11939,12 @@
       "RewardXp": "2",
       "RewardMoney": "0",
       "RewardSupplies": "0",
-      "RewardEnergy": "5000",
+      "RewardEnergy": "6100",
       "PlantRewardXP": "0",
-      "CostMoney": "75",
+      "CostMoney": "20000",
       "CostSupplies": "0",
       "CostPremium": "0",
-      "Time": "1",
+      "Time": "20160",
       "SpoilTime": "0",
       "HireCostPremium": "5"
     },
