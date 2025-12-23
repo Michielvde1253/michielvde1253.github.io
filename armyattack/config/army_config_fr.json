@@ -12965,28 +12965,28 @@
             "fr": "Test"
         },
         "BUILDING_DRIVE_ENERGY_1": {
-            "ID": "BUILDING_DRIVE_WATER_1",
+            "ID": "BUILDING_DRIVE_ENERGY_1",
             "fr": "Energy Supplies"
         },
         "BUILDING_DRIVE_ENERGY_1_DESC": {
-            "ID": "BUILDING_DRIVE_WATER_1_DESC",
-            "fr": "Get %U energy"
+            "ID": "BUILDING_DRIVE_ENERGY_1_DESC",
+            "fr": "Get 15 energy"
         },
         "BUILDING_DRIVE_ENERGY_2": {
-            "ID": "BUILDING_DRIVE_WATER_1",
+            "ID": "BUILDING_DRIVE_ENERGY_2",
             "fr": "Energy Supplies"
         },
         "BUILDING_DRIVE_ENERGY_2_DESC": {
-            "ID": "BUILDING_DRIVE_WATER_1_DESC",
-            "fr": "Get %U energy"
+            "ID": "BUILDING_DRIVE_ENERGY_2_DESC",
+            "fr": "Get 30 energy"
         },
         "BUILDING_DRIVE_ENERGY_3": {
-            "ID": "BUILDING_DRIVE_WATER_1",
+            "ID": "BUILDING_DRIVE_ENERGY_3",
             "fr": "Energy Supplies"
         },
         "BUILDING_DRIVE_ENERGY_3_DESC": {
-            "ID": "BUILDING_DRIVE_WATER_1_DESC",
-            "fr": "Get %U energy"
+            "ID": "BUILDING_DRIVE_ENERGY_3_DESC",
+            "fr": "Get 60 energy"
         },
         "UNIT_RESEARCH_CHOPPER_DESC_TEMP": {
             "ID": "UNIT_RESEARCH_CHOPPER_DESC_TEMP",

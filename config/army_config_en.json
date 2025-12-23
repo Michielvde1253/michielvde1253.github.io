@@ -8189,28 +8189,28 @@
             "en": "Get %U water"
         },
         "BUILDING_DRIVE_ENERGY_1": {
-            "ID": "BUILDING_DRIVE_WATER_1",
+            "ID": "BUILDING_DRIVE_ENERGY_1",
             "en": "Energy Supplies"
         },
         "BUILDING_DRIVE_ENERGY_1_DESC": {
-            "ID": "BUILDING_DRIVE_WATER_1_DESC",
-            "en": "Get %U energy"
+            "ID": "BUILDING_DRIVE_ENERGY_1_DESC",
+            "en": "Get 15 energy"
         },
         "BUILDING_DRIVE_ENERGY_2": {
-            "ID": "BUILDING_DRIVE_WATER_1",
+            "ID": "BUILDING_DRIVE_ENERGY_2",
             "en": "Energy Supplies"
         },
         "BUILDING_DRIVE_ENERGY_2_DESC": {
-            "ID": "BUILDING_DRIVE_WATER_1_DESC",
-            "en": "Get %U energy"
+            "ID": "BUILDING_DRIVE_ENERGY_2_DESC",
+            "en": "Get 30 energy"
         },
         "BUILDING_DRIVE_ENERGY_3": {
-            "ID": "BUILDING_DRIVE_WATER_1",
+            "ID": "BUILDING_DRIVE_ENERGY_3",
             "en": "Energy Supplies"
         },
         "BUILDING_DRIVE_ENERGY_3_DESC": {
-            "ID": "BUILDING_DRIVE_WATER_1_DESC",
-            "en": "Get %U energy"
+            "ID": "BUILDING_DRIVE_ENERGY_3_DESC",
+            "en": "Get 60 energy"
         },
         "BUTTON_HIRE": {
             "ID": "BUTTON_HIRE",
