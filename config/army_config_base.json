@@ -8862,7 +8862,7 @@
       "KillRewardSupplies": "0",
       "KillRewardMaterial": "0",
       "KillRewardEnergy": "30",
-      "Crafting": "#HFEDrives.Farm1,#HFEDrives.Farm2,#HFEDrives.Farm3"
+      "Crafting": "#HFEDrives.Town1,#HFEDrives.Town2,#HFEDrives.Town3"
     },
     "Dvillage": {
       "ID": "Dvillage",
